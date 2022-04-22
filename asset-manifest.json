@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/song-search/static/css/main.bbf0ff12.css",
+    "main.js": "/song-search/static/js/main.b9bd778e.js",
+    "index.html": "/song-search/index.html",
+    "main.bbf0ff12.css.map": "/song-search/static/css/main.bbf0ff12.css.map",
+    "main.b9bd778e.js.map": "/song-search/static/js/main.b9bd778e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbf0ff12.css",
+    "static/js/main.b9bd778e.js"
+  ]
+}
